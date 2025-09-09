@@ -18,3 +18,15 @@ Haris
 <img width="639" height="87" alt="contact-number" src="https://github.com/user-attachments/assets/f6c14d4d-d7eb-4bd7-bb25-f40753b63773" />
 <img width="640" height="97" alt="book-a-meeting" src="https://github.com/user-attachments/assets/8013bbd9-fa6c-4cdf-b90f-c93fa6786887" />
 <img width="646" height="162" alt="Email-add" src="https://github.com/user-attachments/assets/0ef80386-951f-49b7-9985-f9cceb388a15" />
+
+Muneeb
+<img width="646" height="100" alt="Website" src="https://github.com/user-attachments/assets/c1b6fceb-efc1-4f13-8128-5390150da695" />
+<img width="597" height="200" alt="Website-logo" src="https://github.com/user-attachments/assets/f7656459-7c17-416d-be78-494dc32683ff" />
+<img width="597" height="300" alt="Name-and-designation" src="https://github.com/user-attachments/assets/c0dc29d4-b41a-4680-b17d-5284e7c9b29d" />
+<img width="646" height="34" alt="Mobile-Number" src="https://github.com/user-attachments/assets/792b3d7a-c671-44af-9794-9617a5b22e16" />
+<img width="646" height="150" alt="location" src="https://github.com/user-attachments/assets/e5da8380-3079-42da-818a-5624bc2f8d25" />
+<img width="546" height="155" alt="Linkedin" src="https://github.com/user-attachments/assets/255c0abc-1bfa-4998-a30f-8601287b1487" />
+<img width="646" height="162" alt="Email-add" src="https://github.com/user-attachments/assets/43b29d2e-3c22-4748-8750-6123f27450c8" />
+<img width="457" height="500" alt="display-picture" src="https://github.com/user-attachments/assets/2111a4e6-1d7f-4dfa-a877-66e7fb23892d" />
+<img width="646" height="54" alt="contact-number" src="https://github.com/user-attachments/assets/9f208192-67f1-40a5-b5d2-c7c56cbcfdc0" />
+<img width="1154" height="155" alt="book-a-meeting" src="https://github.com/user-attachments/assets/a6c835b0-fee0-47ea-a5e4-b6baa2520e75" />
