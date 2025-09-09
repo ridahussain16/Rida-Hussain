@@ -14,7 +14,7 @@ Haris
 <img width="562" height="200" alt="logo-keyway" src="https://github.com/user-attachments/assets/395c2284-1f43-42d9-bb6e-f652cb5aab19" />
 <img width="640" height="149" alt="location" src="https://github.com/user-attachments/assets/6d66e113-a8b3-4bcf-b329-1d16498e43eb" />
 <img width="546" height="179" alt="linkedin" src="https://github.com/user-attachments/assets/d311cc22-09e6-4f8d-9dde-b2d13832c74d" />
-<img width="638" height="160" alt="Email-add" src="https://github.com/user-attachments/assets/355b3230-14f1-4c46-9630-5e46023eb352" />
 <img width="492" height="500" alt="display-picture" src="https://github.com/user-attachments/assets/e35cfe78-8777-4700-9d26-ad37578152e1" />
 <img width="639" height="87" alt="contact-number" src="https://github.com/user-attachments/assets/f6c14d4d-d7eb-4bd7-bb25-f40753b63773" />
 <img width="640" height="97" alt="book-a-meeting" src="https://github.com/user-attachments/assets/8013bbd9-fa6c-4cdf-b90f-c93fa6786887" />
+<img width="646" height="162" alt="Email-add" src="https://github.com/user-attachments/assets/0ef80386-951f-49b7-9985-f9cceb388a15" />
